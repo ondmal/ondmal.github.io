@@ -145,8 +145,8 @@ Oracle and Teradata); solution architect of the second — the solution as a
 whole, its integrations and its place in the bank's landscape, not the inner
 design of the .NET Core microservices on Kubernetes and PostgreSQL that
 implement it. Software architect of an application for individual pricing of
-day-to-day products — its internal design; designed and built a system
-estimating the profitability of active deals. Teams of up to ten.
+day-to-day products and estimating the profitability of active deals — its
+internal design; designed and built its profitability part. Teams of up to ten.
 
 ### Earlier
 
