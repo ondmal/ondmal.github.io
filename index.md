@@ -41,6 +41,20 @@ PostgreSQL, Azure, Kubernetes, Azure Functions, OpenTelemetry.*
 
 [![System context of the Multi-Party Document Signing Service](https://ondmal.github.io/multi-party-document-signing/images/multi-party-document-signing-system-context.svg)](https://ondmal.github.io/multi-party-document-signing/)
 
+### [Document Template Rendering Service](https://ondmal.github.io/document-template-rendering/)
+
+A stateless service that fills Word templates with request data and renders
+them as signable PDF/A-2u documents — loops, conditional sections, barcodes and
+empty signature fields — as the drop-in successor to a legacy templating engine:
+same templates, same contract, matching output. A rendering library chosen by
+proof of concept, legacy parity engineered as removable features, and the
+shipped container image tested before every release.
+
+*Built 2026 · Role: solution architect. C# / .NET, GemBox.Document, Azure,
+Kubernetes, OpenTelemetry.*
+
+[![System context of the Document Template Rendering Service](https://ondmal.github.io/document-template-rendering/images/document-template-rendering-system-context.svg)](https://ondmal.github.io/document-template-rendering/)
+
 More projects will follow.
 
 ---
