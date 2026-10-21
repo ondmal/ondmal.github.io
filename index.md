@@ -7,7 +7,7 @@ Interested in AI-assisted software development, information systems
 architecture and design, software engineering, software development
 methodologies, and the .NET platform and Azure cloud.
 
-[GitHub · ondmal](https://github.com/ondmal) · [LinkedIn · ondrej-maler](https://www.linkedin.com/in/ondrej-maler/)
+[GitHub](https://github.com/ondmal)&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/ondrej-maler/)
 
 ---
 
