@@ -16,3 +16,4 @@ Each project lives in its own repository and is published under this site.
 | Project | Repository | Page |
 |---|---|---|
 | Account Onboarding Service | [ondmal/account-onboarding](https://github.com/ondmal/account-onboarding) | [ondmal.github.io/account-onboarding](https://ondmal.github.io/account-onboarding/) |
+| Multi-Party Document Signing Service | [ondmal/multi-party-document-signing](https://github.com/ondmal/multi-party-document-signing) | [ondmal.github.io/multi-party-document-signing](https://ondmal.github.io/multi-party-document-signing/) |

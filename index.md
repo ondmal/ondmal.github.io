@@ -26,6 +26,19 @@ Kubernetes, Azure Functions, OpenTelemetry.*
 
 [![System context of the Account Onboarding Service](https://ondmal.github.io/account-onboarding/images/account-onboarding-system-context-grey.svg)](https://ondmal.github.io/account-onboarding/)
 
+### [Multi-Party Document Signing Service](https://ondmal.github.io/multi-party-document-signing/)
+
+A service that turns an external single-signatory signing platform into
+multi-party document signing for any consuming service: one process across
+several signatories that succeeds only when every one of them signs. Reliable
+asynchronous processing on Azure with a transactional outbox, idempotent
+commands and recovery of missed webhooks.
+
+*Role: solution architect and senior developer. C# / .NET, PostgreSQL, Azure,
+Kubernetes, Azure Functions, OpenTelemetry.*
+
+[![System context of the Multi-Party Document Signing Service](https://ondmal.github.io/multi-party-document-signing/images/multi-party-document-signing-system-context.svg)](https://ondmal.github.io/multi-party-document-signing/)
+
 More projects will follow.
 
 ---
