@@ -66,6 +66,24 @@ Kubernetes, OpenTelemetry.*
 
 ---
 
+## Topics
+
+Ideas from my experience — the approach I recommend and why, not a report of
+what is wired today. The projects above are the evidence a topic points to.
+
+### [Documentation as a source artefact](https://ondmal.github.io/topics/documentation-as-code/)
+
+How to document software components in the age of AI: documentation lives next
+to the code and travels with it — written during the change, with an AI agent
+doing the mechanical part, reviewed in the pull request, published on merge —
+and only what nobody can easily get from the code is written at all.
+
+*Written October 2026.*
+
+[![Lifecycle: documentation travels with the code from the first edit to every reader](https://ondmal.github.io/topics/documentation-as-code/images/documentation-as-code-lifecycle.svg)](https://ondmal.github.io/topics/documentation-as-code/)
+
+---
+
 ## Skills
 
 Three tiers, so the list is complete without pretending everything is current.
