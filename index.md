@@ -1,5 +1,7 @@
 # Ondřej Maléř
 
+<img src="images/me.jpg" alt="Ondřej Maléř" width="140" height="140" style="float: right; margin: 0 0 16px 24px; border-radius: 50%;">
+
 Technical team leader, solution architect and senior developer, with experience
 in the mobility, banking and telco industries. Based in the Czech Republic.
 
