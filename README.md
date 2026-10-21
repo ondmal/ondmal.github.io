@@ -8,6 +8,8 @@ profile and selected projects.
 - [`index.md`](index.md) — the home page: profile, project cards, experience,
   skills, education.
 - [`_config.yml`](_config.yml) — GitHub Pages site settings.
+- [`images/`](images/) — the photo and the career-shape chart (hand-authored
+  SVG).
 
 ## Projects
 

@@ -2,18 +2,27 @@
 
 <img src="images/me.jpg" alt="Ondřej Maléř" width="140" height="140" style="float: right; margin: 0 0 16px 24px; border-radius: 50%;">
 
-Technical team leader, solution architect and senior developer, with experience
-in the mobility, banking and telco industries. Based in the Czech Republic.
+**Solution architect and technical team leader — backend, .NET, Azure.** I
+design backend systems, lead the team that builds them, and write the critical
+parts myself; web frontend is not my area. More than twenty-five years in
+software, most of them in banking and mobility. Today I lead the team building
+an account-onboarding platform — three of its services are in production and
+described below — and I author the AI-assisted development methodology the
+team works by.
 
-Interested in AI-assisted software development, information systems
-architecture and design, software engineering, software development
-methodologies, and the .NET platform and Azure cloud.
+Moravian-Silesian Region, Czech Republic&nbsp;&nbsp;·&nbsp;&nbsp;[GitHub](https://github.com/ondmal)&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/ondrej-maler/)
 
-[GitHub](https://github.com/ondmal)&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/ondrej-maler/)
+![Career shape: backend developer from 1997 to today, team leader, tech lead and software architect from 1999, solution architect from 2023; employers Teledin, Sprinx, O2, Vodafone, Komerční banka (KB), Eurowag; no web frontend](images/career-shape.svg)
 
 ---
 
 ## Projects
+
+Three services of one onboarding platform, built 2025–2026 and in production:
+the onboarding engine, the signing of the contracts it produces, and the
+rendering of the documents that get signed. Each page is a one-page
+architecture overview — the problem, the design decisions and their reasons,
+the diagrams.
 
 ### [Account Onboarding Service](https://ondmal.github.io/account-onboarding/)
 
@@ -55,65 +64,83 @@ Kubernetes, OpenTelemetry.*
 
 [![System context of the Document Template Rendering Service](https://ondmal.github.io/document-template-rendering/images/document-template-rendering-system-context.svg)](https://ondmal.github.io/document-template-rendering/)
 
-More projects will follow.
+---
+
+## Skills
+
+Three tiers, so the list is complete without pretending everything is current.
+
+**Core** — used in production in the last two years; I could teach it.
+
+- **Platform:** C# · .NET 10 · ASP.NET Core minimal APIs
+- **Architecture:** Clean Architecture · DDD · ports & adapters · plugin
+  architecture · vertical slices · event-driven (transactional outbox,
+  idempotency, replay) · microservices
+- **Integration & security:** REST · OpenAPI · webhooks · Kafka · Azure Storage
+  Queues · OAuth 2.0 / OIDC · workload identity · mTLS
+- **Data:** PostgreSQL · EF Core
+- **Cloud & runtime:** Azure (AKS, Helm, Key Vault, Functions, Blob & Files
+  storage, DevOps pipelines) · Kubernetes · Docker
+- **Observability:** OpenTelemetry · Honeycomb (dashboards, SLOs, alerts as
+  code)
+- **Testing:** TUnit · Testcontainers · WireMock · NetArchTest · container
+  end-to-end tests · BenchmarkDotNet
+- **Documents:** PDF/A-2u generation (GemBox.Document, PdfSharp)
+- **Method & tooling:** AI-assisted development (Claude Code: skills,
+  subagents, hooks, MCP; spec-driven generation; review agents) · Scrum · UML ·
+  ArchiMate · Enterprise Architect · Azure DevOps
+
+**Working** — used in production, now a step back; a day to warm up.
+
+.NET Framework · SOAP / WCF · Teradata · MS SQL · Oracle · Power BI · Blazor ·
+NUnit / xUnit · Confluence
+
+**Past** — real experience, stale; I know what it is and what it costs.
+
+Delphi · Visual Basic · classic ASP · ASP.NET WebForms · WinForms · DevExpress ·
+ADO.NET · PL/SQL · .NET Remoting · ASMX web services · IIS · log4net · RUP · XP
+· Team Foundation Server
 
 ---
 
 ## Experience
 
-### Technical team leader — Eurowag
+### Technical team leader, solution architect — Eurowag
 *July 2025 – present*
 
 Leading the team that builds the account onboarding platform: team leadership,
 planning and estimation, architecture and design of the backend services, code
-review, and technical documentation.
+review, and technical documentation. The services are the three described under
+*Projects*.
 
 - **AI-assisted development methodology.** Author and maintainer of the team
   methodology: Claude Code (skills, subagents, hooks, MCP), spec-driven code
   generation layer by layer, and automated review agents enforcing a shared
   rule set.
-- **Account Onboarding Service.** .NET 10, Clean Architecture, DDD, ports and
-  adapters, plugin architecture; PostgreSQL, Kafka, Azure (AKS, Helm, Key Vault,
-  Workload Identity), OpenTelemetry.
-- **Self-Service Account Onboarding.** .NET BFF for a web micro-frontend;
-  integration with CRM, company registers, the customer directory, and account
-  provisioning.
-- **Document Digital Signing Service.** Azure Functions, Queue and Blob Storage,
-  PostgreSQL; event-driven architecture, transactional outbox, idempotency,
-  command replay; integration with an external signing platform over REST, mTLS
-  and webhooks.
-- **Document Templating Service.** PDF/A-2u generation from .docx templates;
-  .NET Aspire, Azure File Share, Key Vault.
 
-### Solution architect, software architect, senior programmer — Komerční banka
+### Solution architect, software architect, senior developer — Komerční banka (KB)
 *December 2007 – March 2025*
 
-Architecture and design of a new CRM system for the bank's corporate segments
-and of an application for individual pricing of day-to-day products. Design and
-implementation of the previous CRM system and of a system estimating the
-profitability of active deals.
-
-Microservices and event-driven architecture · .NET Core, .NET Framework,
-SOAP/REST, Kubernetes · PostgreSQL, Oracle, MS SQL, Teradata, Power BI ·
-WinForms, DevExpress, Blazor · unit testing, team leading.
+CRM for the bank's corporate and top-corporate segments, in two generations:
+designed, built and led the team of the first (WinForms and DevExpress on
+Oracle and Teradata); solution architect of the second — the solution as a
+whole, its integrations and its place in the bank's landscape, not the inner
+design of the .NET Core microservices on Kubernetes and PostgreSQL that
+implement it. Software architect of an application for individual pricing of
+day-to-day products — its internal design; designed and built a system
+estimating the profitability of active deals. Teams of up to ten.
 
 ### Earlier
 
-- **Software architect, senior programmer** — Vodafone, Eurotel · 2004 – 2007
-- **Senior programmer, programmer** — Sprinx, Teledin · 1997 – 2004
+- **Software architect, senior developer** — Vodafone, O2 · 2004 – 2007
+- **Team leader, software architect, senior developer** — Sprinx · 1999 – 2004
+- **Developer** — Teledin · 1997 – 1999
 
 ---
 
-## Skills
-
-| Area | |
-|---|---|
-| Architecture & design | Solution and information systems architecture, design patterns, analysis, UML, ArchiMate |
-| Platform | .NET, Azure, relational databases |
-| Engineering practice | AI-assisted development, unit testing, Scrum |
-| People | Leadership, teamwork, communication |
-| Languages | English |
-
 ## Education
 
-**Czech Technical University in Prague** · 1994 – 2000
+**Ing. (MSc), Software Engineering** — Czech Technical University in Prague ·
+1994 – 2000
+
+Languages: Czech (native), English.
