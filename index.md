@@ -143,8 +143,7 @@ CRM for the bank's corporate and top-corporate segments, in two generations:
 designed, built and led the team of the first (WinForms and DevExpress on
 Oracle and Teradata); solution architect of the second — the solution as a
 whole, its integrations and its place in the bank's landscape, not the inner
-design of the .NET Core microservices on Kubernetes and PostgreSQL that
-implement it. Software architect of an application for individual pricing of
+design of the .NET Core microservices that implement it. Software architect of an application for individual pricing of
 day-to-day products and estimating the profitability of active deals — its
 internal design; designed and built its profitability part. Teams of up to ten.
 
