@@ -21,8 +21,8 @@ asynchronous host, and reliable background processing on Azure. The first
 channel, self-service onboarding, is delivered end to end from a React
 micro-frontend through a BFF to the service.
 
-*Role: solution architect and senior developer. C# / .NET, PostgreSQL, Azure,
-Kubernetes, Azure Functions, OpenTelemetry.*
+*Built 2026 · Role: solution architect and senior developer. C# / .NET,
+PostgreSQL, Azure, Kubernetes, Azure Functions, OpenTelemetry.*
 
 [![System context of the Account Onboarding Service](https://ondmal.github.io/account-onboarding/images/account-onboarding-system-context-grey.svg)](https://ondmal.github.io/account-onboarding/)
 
@@ -34,8 +34,8 @@ several signatories that succeeds only when every one of them signs. Reliable
 asynchronous processing on Azure with a transactional outbox, idempotent
 commands and recovery of missed webhooks.
 
-*Role: solution architect and senior developer. C# / .NET, PostgreSQL, Azure,
-Kubernetes, Azure Functions, OpenTelemetry.*
+*Built 2025–2026 · Role: solution architect and senior developer. C# / .NET,
+PostgreSQL, Azure, Kubernetes, Azure Functions, OpenTelemetry.*
 
 [![System context of the Multi-Party Document Signing Service](https://ondmal.github.io/multi-party-document-signing/images/multi-party-document-signing-system-context.svg)](https://ondmal.github.io/multi-party-document-signing/)
 
