@@ -7,6 +7,8 @@ Interested in AI-assisted software development, information systems
 architecture and design, software engineering, software development
 methodologies, and the .NET platform and Azure cloud.
 
+[GitHub · ondmal](https://github.com/ondmal)
+
 ---
 
 ## Projects
