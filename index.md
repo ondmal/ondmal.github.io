@@ -22,7 +22,8 @@ Three services of one onboarding platform, built 2025–2026 and in production:
 the onboarding engine, the signing of the contracts it produces, and the
 rendering of the documents that get signed. Each page is a one-page
 architecture overview — the problem, the design decisions and their reasons,
-the diagrams.
+the diagrams. Alongside them, in progress: a methodology for AI-assisted
+development.
 
 ### [Account Onboarding Service](https://ondmal.github.io/account-onboarding/)
 
@@ -36,6 +37,19 @@ micro-frontend through a BFF to the service.
 PostgreSQL, Azure, Kubernetes, Azure Functions, OpenTelemetry.*
 
 [![System context of the Account Onboarding Service](https://ondmal.github.io/account-onboarding/images/account-onboarding-system-context-grey.svg)](https://ondmal.github.io/account-onboarding/)
+
+### [Rule-Driven AI Development](https://ondmal.github.io/rule-driven-ai-development/)
+
+A methodology for getting consistent, rule-compliant work from AI agents, and
+its reference implementation: the agent gets rules that define "done", context,
+tools and a process, and one loop checks every output against the rules and
+iterates toward a result that passes. Built from scratch on my experience, in
+three layers — the methodology, a toolkit for people who build, a library for
+people who use.
+
+*In progress · October 2026 · Role: author.*
+
+[![Three layers: the methodology, the toolkit built on it, the library whose content the toolkit writes](https://ondmal.github.io/rule-driven-ai-development/images/rule-driven-ai-development-layers.svg)](https://ondmal.github.io/rule-driven-ai-development/)
 
 ### [Multi-Party Document Signing Service](https://ondmal.github.io/multi-party-document-signing/)
 

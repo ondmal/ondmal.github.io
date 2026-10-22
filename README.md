@@ -18,6 +18,7 @@ Each project lives in its own repository and is published under this site.
 | Project | Repository | Page |
 |---|---|---|
 | Account Onboarding Service | [ondmal/account-onboarding](https://github.com/ondmal/account-onboarding) | [ondmal.github.io/account-onboarding](https://ondmal.github.io/account-onboarding/) |
+| Rule-Driven AI Development (in progress) | [ondmal/rule-driven-ai-development](https://github.com/ondmal/rule-driven-ai-development) | [ondmal.github.io/rule-driven-ai-development](https://ondmal.github.io/rule-driven-ai-development/) |
 | Multi-Party Document Signing Service | [ondmal/multi-party-document-signing](https://github.com/ondmal/multi-party-document-signing) | [ondmal.github.io/multi-party-document-signing](https://ondmal.github.io/multi-party-document-signing/) |
 | Document Template Rendering Service | [ondmal/document-template-rendering](https://github.com/ondmal/document-template-rendering) | [ondmal.github.io/document-template-rendering](https://ondmal.github.io/document-template-rendering/) |
 
