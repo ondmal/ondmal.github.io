@@ -10,6 +10,11 @@ an account-onboarding platform — three of its services are in production and
 described below — and I author the AI-assisted development methodology the
 team works by.
 
+**The whole span, when it helps.** When a problem benefits from it, I can take
+it end to end on my own — stakeholder conversations, requirements, architecture,
+design, implementation and code review — the kind of range one person can
+realistically cover in the AI era.
+
 Moravian-Silesian Region, Czech Republic&nbsp;&nbsp;·&nbsp;&nbsp;[GitHub](https://github.com/ondmal)&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/ondrej-maler/)
 
 ![Career shape: backend developer from 1997 to today, team leader, tech lead and software architect from 1999, solution architect from 2023; employers Teledin, Sprinx, O2, Vodafone, Komerční banka (KB), Eurowag; no web frontend](images/career-shape.svg)
